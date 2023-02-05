@@ -1,0 +1,5 @@
+{"current_url": "A", "page_link": ["B", "C", "D", "E"]},
+{"current_url": "B", "page_link": ["C", "D", "E"]},
+{"current_url": "C", "page_link": ["E", "D"]},
+{"current_url": "D", "page_link": ["B", "C"]},
+{"current_url": "E", "page_link": ["A", "B"]},
